@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week3Cards</string>
+
+    <string name="ace">ACE HEARTS</string>
+    <string name="flip">FLIP</string>
+
+</resources>
